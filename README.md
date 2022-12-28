@@ -1,3 +1,9 @@
 # ENC
+This tool content 3 types of Enc
 
-https://github.com/FM-FIRES/ENC/blob/main/Screenshot_20221228-233508.jpg?raw=true
+1. BASH/SHELL ENC ✨
+
+2. BASH/SHELL DEC 🔥
+
+3. PYTHON EMOJI ENC ✨
+
