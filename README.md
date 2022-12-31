@@ -6,7 +6,7 @@ This tool content 3 types of Enc
 
 1. BASH/SHELL ENC ✨
 
-2. BASH/SHELL DEC 🔥
+2. PY3 MARSHAL 🔥
 
 3. PYTHON EMOJI ENC ✨
 
@@ -24,7 +24,7 @@ git clone https://github.com/FM-FIRES/ENC
 
 cd ENC
 
-python Enc.py
+python X.py
 
 
 OkayH THANKS EVERYONE ❤️
